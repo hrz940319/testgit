@@ -1,4 +1,8 @@
 test
 hello2
 hell2
+<<<<<<< HEAD
 hello3
+=======
+hell3
+>>>>>>> aa08cc9aa975ecd350c0d0802b07de167b218b94
